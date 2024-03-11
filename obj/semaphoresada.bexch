@@ -1,0 +1,22 @@
+[GENERATED OBJECT FILE]
+b__semaphoresada.o
+[PROJECT FILES]
+C:\Users\Vlad\Desktop\adac\semaphoresada.gpr
+20240311202518 b83b0469932e734d46bfc92d02ed53d7
+[BOUND OBJECT FILES]
+C:\Users\Vlad\Desktop\adac\obj\semaphoresada.o
+[GENERATED SOURCE FILES]
+b__semaphoresada.ads
+b__semaphoresada.adb
+b__semaphoresada.ali
+[RESULTING OPTIONS]
+-LC:\Users\Vlad\Desktop\adac\obj\
+-LC:\Users\Vlad\Desktop\adac\obj\
+-LC:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnarl.a
+C:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnat.a
+-Xlinker
+--stack=0x200000,0x1000
+-mthreads
